@@ -1,6 +1,6 @@
 let user = null;
 // user has logged in
-user = "Sandip";
+user = "Sandeep";
 console.log(user);
 // user has logged out
 user = null;
